@@ -1,0 +1,5 @@
+com\kafka\producer\service\WikimediaChangesProducer.class
+com\kafka\producer\service\WikimediaProducerService.class
+com\kafka\producer\utility\WikimediaChangesHandler.class
+com\kafka\producer\config\KafkaTopicConfig.class
+com\kafka\producer\SpringBootProducerApplication.class

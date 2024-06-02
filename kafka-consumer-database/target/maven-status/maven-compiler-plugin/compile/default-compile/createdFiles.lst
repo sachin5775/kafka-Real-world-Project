@@ -1,0 +1,5 @@
+com\kafka\consumer\service\KafkaConsumerService.class
+com\kafka\consumer\repo\WikimediaRepository.class
+com\kafka\consumer\controller\ConsumerController.class
+com\kafka\consumer\entity\Wikimedia.class
+com\kafka\consumer\SpringBootApplicationConsumer.class
